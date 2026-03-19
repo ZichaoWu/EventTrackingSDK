@@ -1,0 +1,4 @@
+module EventTrackingSDK {
+    header "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/EventTrackingSDK-Swift.h"
+    requires objc
+}

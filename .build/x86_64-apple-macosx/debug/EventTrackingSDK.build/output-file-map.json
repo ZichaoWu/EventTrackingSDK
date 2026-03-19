@@ -1,0 +1,107 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/master.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/Analytics.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/Analytics.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/Analytics.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/Analytics~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/Analytics.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnalyticsConfig.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsConfig.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsConfig.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsConfig.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnalyticsDSL.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsDSL.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsDSL.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsDSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsDSL.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnalyticsInterceptor.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsInterceptor.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsInterceptor.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsInterceptor~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsInterceptor.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnyCodable.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnyCodable.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnyCodable.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnyCodable~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnyCodable.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/DynamicTracker.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/DynamicTracker.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/DynamicTracker.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/DynamicTracker~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/DynamicTracker.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/Event.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/Event.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/Event.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/Event~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/Event.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/SessionManager.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/SessionManager.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/SessionManager.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/SessionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/SessionManager.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/VisualTracker.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/VisualTracker.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/VisualTracker.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/VisualTracker~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/VisualTracker.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Exposure/ExposureManager.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Exposure/ExposureManager.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Exposure/ExposureManager.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Exposure/ExposureManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Exposure/ExposureManager.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Hook/CrashReporter.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/CrashReporter.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/CrashReporter.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/CrashReporter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/CrashReporter.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Hook/NetworkHook.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/NetworkHook.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/NetworkHook.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/NetworkHook~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/NetworkHook.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Hook/UIViewController+Track.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/UIViewController+Track.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/UIViewController+Track.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/UIViewController+Track~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/UIViewController+Track.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Storage/DiskStorage.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Storage/DiskStorage.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Storage/DiskStorage.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Storage/DiskStorage~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Storage/DiskStorage.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Storage/EventQueue.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Storage/EventQueue.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Storage/EventQueue.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Storage/EventQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Storage/EventQueue.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Upload/UploadManager.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Upload/UploadManager.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Upload/UploadManager.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Upload/UploadManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Upload/UploadManager.swiftdeps"
+  },
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/resource_bundle_accessor.d",
+    "object": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/resource_bundle_accessor.swiftdeps"
+  }
+}

@@ -1,0 +1,5 @@
+module Event_Tracking_SDK {
+    umbrella header "Event_Tracking_SDK.h"
+    export *
+    module * { export * }
+}

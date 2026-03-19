@@ -1,0 +1,334 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDKPackageTests.xctest/Contents/MacOS/EventTrackingSDKPackageTests",
+      "productName" : "EventTrackingSDKPackageTests"
+    }
+  ],
+  "copyCommands" : {
+    "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK_EventTrackingSDK.bundle/Event_Tracking_SDK.docc" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Event_Tracking_SDK.docc"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK_EventTrackingSDK.bundle/Event_Tracking_SDK.docc"
+        }
+      ]
+    }
+  },
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.EventTrackingSDK-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/Analytics.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnalyticsConfig.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnalyticsDSL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnalyticsInterceptor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnyCodable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/DynamicTracker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/Event.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/SessionManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/VisualTracker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Exposure/ExposureManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Hook/CrashReporter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Hook/NetworkHook.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Hook/UIViewController+Track.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Storage/DiskStorage.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Storage/EventQueue.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Upload/UploadManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<EventTrackingSDK-debug.module-resources>"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "EventTrackingSDK",
+      "moduleOutputPath" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/Analytics.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsConfig.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsDSL.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsInterceptor.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnyCodable.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/DynamicTracker.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/Event.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/SessionManager.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/VisualTracker.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Exposure/ExposureManager.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/CrashReporter.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/NetworkHook.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/UIViewController+Track.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Storage/DiskStorage.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Storage/EventQueue.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Upload/UploadManager.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j4",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/EventTrackingSDK-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/Analytics.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsConfig.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsDSL.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnalyticsInterceptor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/AnyCodable.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/DynamicTracker.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/Event.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/SessionManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Core/VisualTracker.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Exposure/ExposureManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/CrashReporter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/NetworkHook.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Hook/UIViewController+Track.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Storage/DiskStorage.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Storage/EventQueue.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/Upload/UploadManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/Analytics.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnalyticsConfig.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnalyticsDSL.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnalyticsInterceptor.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnyCodable.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/DynamicTracker.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/Event.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/SessionManager.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/VisualTracker.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Exposure/ExposureManager.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Hook/CrashReporter.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Hook/NetworkHook.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Hook/UIViewController+Track.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Storage/DiskStorage.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Storage/EventQueue.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Upload/UploadManager.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.EventTrackingSDKTests-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Tests/EventTrackingSDKTests/AnalyticsSDKTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/Tests/EventTrackingSDKTests/Event_Tracking_SDKTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "EventTrackingSDKTests",
+      "moduleOutputPath" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDKTests.swiftmodule",
+      "objects" : [
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDKTests.build/AnalyticsSDKTests.swift.o",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDKTests.build/Event_Tracking_SDKTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-apple-macosx11.0",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j4",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDKTests.build/AnalyticsSDKTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDKTests.build/Event_Tracking_SDKTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDKTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Tests/EventTrackingSDKTests/AnalyticsSDKTests.swift",
+        "/Users/mac/Desktop/Swift/Event Tracking SDK/Tests/EventTrackingSDKTests/Event_Tracking_SDKTests.swift"
+      ],
+      "tempsPath" : "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDKTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

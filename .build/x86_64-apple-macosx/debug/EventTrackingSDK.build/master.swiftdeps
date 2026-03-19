@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "0842b633850e0b3dad51eb2764fc77b500ff091809bc26626aeb2d78ed78ac1e"
+build_start_time: [1773887970, 870438098]
+build_end_time: [1773887972, 119812965]
+inputs:
+  ? "/Users/mac/Desktop/Swift/Event Tracking SDK/.build/x86_64-apple-macosx/debug/EventTrackingSDK.build/DerivedSources/resource_bundle_accessor.swift"
+  : !private [1773887753, 976571083]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/Analytics.swift": !private [1773887715, 432072639]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnalyticsConfig.swift": !private [1773887715, 432740926]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnalyticsDSL.swift": !private [1773887715, 433650016]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnalyticsInterceptor.swift": !private [1773887715, 434940338]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/AnyCodable.swift": !private [1773887715, 435855388]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/DynamicTracker.swift": !private [1773887715, 436570644]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/Event.swift": !private [1773887715, 437154531]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/SessionManager.swift": !private [1773887715, 438542366]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Core/VisualTracker.swift": !private [1773887715, 439107418]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Exposure/ExposureManager.swift": !private [1773887715, 647967100]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Hook/CrashReporter.swift": !private [1773887715, 816732406]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Hook/NetworkHook.swift": !private [1773887715, 817010402]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Hook/UIViewController+Track.swift": !private [1773887715, 817253589]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Storage/DiskStorage.swift": !private [1773887716, 30645847]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Storage/EventQueue.swift": !private [1773887716, 31009912]
+  "/Users/mac/Desktop/Swift/Event Tracking SDK/Sources/EventTrackingSDK/Upload/UploadManager.swift": !private [1773887716, 207243919]
