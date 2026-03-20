@@ -23,6 +23,8 @@
 		04D851E92F6ABC9200E03D3A /* AnyCodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D851E82F6ABC9200E03D3A /* AnyCodable.swift */; };
 		04D851EB2F6ABCF000E03D3A /* AnalyticsConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D851EA2F6ABCF000E03D3A /* AnalyticsConfig.swift */; };
 		04D851ED2F6ABD0C00E03D3A /* SessionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D851EC2F6ABD0C00E03D3A /* SessionManager.swift */; };
+		04D851F42F6CD2BC00E03D3A /* EventTrackingSDK.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 04D851F32F6CD2BC00E03D3A /* EventTrackingSDK.podspec */; };
+		04D851F62F6CD2DE00E03D3A /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 04D851F52F6CD2DE00E03D3A /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +56,8 @@
 		04D851E82F6ABC9200E03D3A /* AnyCodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyCodable.swift; sourceTree = "<group>"; };
 		04D851EA2F6ABCF000E03D3A /* AnalyticsConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnalyticsConfig.swift; sourceTree = "<group>"; };
 		04D851EC2F6ABD0C00E03D3A /* SessionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionManager.swift; sourceTree = "<group>"; };
+		04D851F32F6CD2BC00E03D3A /* EventTrackingSDK.podspec */ = {isa = PBXFileReference; lastKnownFileType = file; path = EventTrackingSDK.podspec; sourceTree = SOURCE_ROOT; };
+		04D851F52F6CD2DE00E03D3A /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +82,8 @@
 		04D851AC2F6A842F00E03D3A = {
 			isa = PBXGroup;
 			children = (
+				04D851F32F6CD2BC00E03D3A /* EventTrackingSDK.podspec */,
+				04D851F52F6CD2DE00E03D3A /* LICENSE */,
 				04D851B82F6A842F00E03D3A /* Event Tracking SDK */,
 				04D851C42F6A842F00E03D3A /* Event Tracking SDKTests */,
 				04D851B72F6A842F00E03D3A /* Products */,
@@ -255,6 +261,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04D851F62F6CD2DE00E03D3A /* LICENSE in Resources */,
+				04D851F42F6CD2BC00E03D3A /* EventTrackingSDK.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
